@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!
-**Rintu62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rintu62** 
 
 Here are some ideas to get you started:
 
