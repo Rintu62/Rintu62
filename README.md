@@ -5,7 +5,6 @@
 <img width="110" height="20" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465764f70732d4c6561726e696e672d627269676874677265656e" src="https://github.com/user-attachments/assets/d6540bc8-cdcd-4a80-aab8-bf57dd3bb1a2" /><img width="130" height="20" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4453412d446174615f537472756374757265732d666634353030" src="https://github.com/user-attachments/assets/a411fa51-5605-47e5-944f-ada0c2cd2caa" />
 
 
-  -->
   
   ##                                                   Hi there i am Rintu 👋
 
@@ -21,8 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Uploading 687474707
+  <svg width="498" height="48" viewBox="0 0 2656 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    
+        
 
 
 <img width="880" height="192" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/e89cbba5-5066-4e34-8da4-0e613898a304" />
+
 
   <img width="2000" height="400" alt="DSA_github" src="https://github.com/user-attachments/assets/0596b041-84ed-4ee8-915f-5ad7ba74023d" />
