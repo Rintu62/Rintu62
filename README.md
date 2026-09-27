@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-
-## Hi there 👋
-
 <p align="center">
-  <img src="./coding.gif" width="600">
+ <img src="./githubgif.gif" width="600">
 </p>
 
 <!
