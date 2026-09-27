@@ -9,7 +9,7 @@
 <p align="center">
   <b>🚀 AI/ML Developer | Software Engineer | Tech Enthusiast 🚀</b>
 </p>
-<hr style="height: 1px; border: 0;">
+<hr style="height: 0.1px; border: 0;">
 
 <p align="center"> About me </p>
 Here are some ideas to get you started:
