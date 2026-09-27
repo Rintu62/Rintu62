@@ -8,6 +8,7 @@
  <hr>
 <p> HI There I am Rigu </p>
 <p align="center">
+ <p> HI There I am Rigu </p> <br>
   <b>🚀 AI/ML Developer | Software Engineer | Tech Enthusiast 🚀</b>
 </p>
 
@@ -25,7 +26,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-    
+    <p align="center">
+  <b>💻 ABOUT ME</b>
+</p>
+
+<hr>
         
 
 
