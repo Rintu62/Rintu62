@@ -1,6 +1,7 @@
 <img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/440e047b-9383-4330-bcc1-0502a8feb7ed" />
   
-## Hi there i am Rintu 👋
+  
+  ##                                                   Hi there i am Rintu 👋
 
 
 Here are some ideas to get you started:
