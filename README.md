@@ -7,7 +7,6 @@
  <hr>
 
 <p align="center">
- <p> HI There I am Rigu </p> <br>
   <b>🚀 AI/ML Developer | Software Engineer | Tech Enthusiast 🚀</b>
 </p>
 <hr>
