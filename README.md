@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
- <img src="./githubgif.gif" width="600">
-</p>
-
-
+![GitHub GIF](./githubgif.gif)
 
 <!
 **Rintu18** 
