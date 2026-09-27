@@ -1,4 +1,7 @@
 <img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/440e047b-9383-4330-bcc1-0502a8feb7ed" />
+
+<img width="2000" height="400" alt="DSA_github" src="https://github.com/user-attachments/assets/0596b041-84ed-4ee8-915f-5ad7ba74023d" />
+
   
   
   ##                                                   Hi there i am Rintu 👋
