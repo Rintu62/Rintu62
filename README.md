@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img width="880" height="192" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/e89cbba5-5066-4e34-8da4-0e613898a304" />
+
   <img width="2000" height="400" alt="DSA_github" src="https://github.com/user-attachments/assets/0596b041-84ed-4ee8-915f-5ad7ba74023d" />
