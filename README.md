@@ -4,12 +4,11 @@
 
 
  <hr>
-<p> HI There I am Rigu </p>
+
 <p align="center">
  <p> HI There I am Rigu </p> <br>
   <b>🚀 AI/ML Developer | Software Engineer | Tech Enthusiast 🚀</b>
 </p>
-
 <hr>
 
 Here are some ideas to get you started:
@@ -23,14 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-    <p align="center">
-  <b>💻 ABOUT ME</b>
-</p>
-
-
-        
-
 
 <img width="1000" height="190" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/e89cbba5-5066-4e34-8da4-0e613898a304" />
 
