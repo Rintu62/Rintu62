@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 
-![GitHub GIF](./githubgif.gif)
+## Hi there 👋
 
+<p align="center">
+  <img src="./coding.gif" width="600">
+</p>
 
 <!
 **Rintu18** 
