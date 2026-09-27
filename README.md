@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+
+![GitHub GIF](./githubgif.gif)
+
+
 <!
 **Rintu18** 
 Here are some ideas to get you started:
