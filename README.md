@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Uploading 687474707
-  <svg width="498" height="48" viewBox="0 0 2656 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+
     
         
 
 
-<img width="880" height="192" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/e89cbba5-5066-4e34-8da4-0e613898a304" />
+<img width="880" height="300" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/e89cbba5-5066-4e34-8da4-0e613898a304" />
 
 
   <img width="2000" height="400" alt="DSA_github" src="https://github.com/user-attachments/assets/0596b041-84ed-4ee8-915f-5ad7ba74023d" />
