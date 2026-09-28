@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 
 
 
-<img src="badge&logo=C%2B%2B&logoColor=white"
-     alt="C++"
-     height="35"
-     style="border: 2px solid black;">
-
-
 <hr>
 <img width="1000" height="190" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/e89cbba5-5066-4e34-8da4-0e613898a304" />
 
