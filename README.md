@@ -7,7 +7,7 @@
  <hr>
 
 <p align="center">
-  <b>🚀 AI/ML Developer | Software Engineer | Tech Enthusiast 🚀</b>
+  <b> AI/ML Developer | Software Engineer | Tech Enthusiast </b>
 </p>
 <hr style="height: 0.1px; border: 0;">
 
