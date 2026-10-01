@@ -1,4 +1,6 @@
-<img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/440e047b-9383-4330-bcc1-0502a8feb7ed" />
+
+<img width="200" height="143" alt="spider-man-web" src="https://github.com/user-attachments/assets/55726a9f-d60a-48f5-80fc-8126a76ff1d8" />
+<img width="401" height="473" alt="spiderManHunging" src="https://github.com/user-attachments/assets/e067b8e0-52b1-4127-836a-d8ad7c9295f4" />
 
 <p align="center">
 <img width="130" height="20" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4453412d446174615f537472756374757265732d666634353030" src="https://github.com/user-attachments/assets/a411fa51-5605-47e5-944f-ada0c2cd2caa" /> <img width="110" height="20" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465764f70732d4c6561726e696e672d627269676874677265656e" src="https://github.com/user-attachments/assets/d6540bc8-cdcd-4a80-aab8-bf57dd3bb1a2" />
