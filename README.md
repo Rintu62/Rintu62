@@ -46,7 +46,7 @@ I'm a passionate developer from Chandigarh, India, interested in **AI/ML, Web De
 
 
 <hr>
-<img width="1000" height="190" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/e89cbba5-5066-4e34-8da4-0e613898a304" />
+<!-- <img width="1000" height="190" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/e89cbba5-5066-4e34-8da4-0e613898a304" /> -->
 <!-- <img width="2000" height="600" alt="spider-man-web" src="https://github.com/user-attachments/assets/55726a9f-d60a-48f5-80fc-8126a76ff1d8" /> -->
 <hr>
   <img width="2000" height="400" alt="DSA_github" src="https://github.com/user-attachments/assets/0596b041-84ed-4ee8-915f-5ad7ba74023d" />
