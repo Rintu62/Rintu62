@@ -25,7 +25,7 @@ I'm a passionate developer from Chandigarh, India, interested in **AI/ML, Web De
 -  I'm looking to collaborate on **Open Source projects**
 -  I'm looking for help with **AI/ML & Open Source**
 -  Ask me about **Python, C++, React & AI**
--  How to reach me: **LinkedIn**
+-  How to reach me: **LinkedIn link**
 -  Fun fact: **I love building things that solve real problems**
 
 </td>
