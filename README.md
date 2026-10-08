@@ -1,5 +1,5 @@
 <!-- <table> -->
-<table">
+<table>
 <tr>
 
 <td width="38%" align="center" valign="top">
