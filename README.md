@@ -1,5 +1,5 @@
 <!-- <table> -->
-<table border="0" cellspacing="0" cellpadding="0">
+<table">
 <tr>
 
 <td width="38%" align="center" valign="top">
