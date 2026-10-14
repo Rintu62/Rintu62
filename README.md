@@ -20,6 +20,12 @@ I'm a passionate developer from Chandigarh, India, interested in **AI/ML, Web De
 
 <br>
 
+CS undergrad(3nd year) from Chandigarh engineering college landran, passionate about Data Science  (AI/ML) and web development. Building smart systems and exploring new tech  - nothing Special, just making computers guess better.
+
+Attention : - build my own AI assistant—one step closer to smarter automation.
+
+
+
 -  I'm currently working on **AI/ML projects**
 -  I'm currently learning **DSA & System Design**
 -  I'm looking to collaborate on **Open Source projects**
