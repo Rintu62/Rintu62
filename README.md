@@ -2,7 +2,7 @@
 <table>
 <tr>
 
-<h1> under maintenance </h1>
+<h1> Under Maintenance </h1>
 <td width="38%" align="center" valign="top">
 
 <img 
@@ -20,8 +20,6 @@
 I'm a passionate developer from Chandigarh, India, interested in **AI/ML, Web Development and DSA**.
 
 <br>
-
-CS undergrad(3nd year) from Chandigarh engineering college landran, passionate about Data Science  (AI/ML) and web development. Building smart systems and exploring new tech  - nothing Special, just making computers guess better.
 
 Attention : - build my own AI assistant—one step closer to smarter automation.
 
