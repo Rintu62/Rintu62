@@ -25,14 +25,11 @@ CS undergrad(3nd year) from Chandigarh engineering college landran, passionate a
 
 Attention : - build my own AI assistant—one step closer to smarter automation.
 
-
-
 -  I'm currently working on **AI/ML projects**
--  I'm currently learning **DSA & System Design**
+-  I'm currently learning **Full Stack | DSA | System Design**
 -  I'm looking to collaborate on **Open Source projects**
 -  I'm looking for help with **AI/ML & Open Source**
--  Ask me about **Python, C++, React & AI**
--  How to reach me: **LinkedIn link**
+-  Ask me about **Python, C++, React & AI/ML**
 -  Fun fact: **I love building things that solve real problems**
 
 </td>
